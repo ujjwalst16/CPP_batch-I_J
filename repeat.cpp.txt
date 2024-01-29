@@ -2,7 +2,7 @@ Q1.#include <bits/stdc++.h>
 using namespace std;
 int main()
 {
-    cout<<"welcome to the programming world";
+    cout<<"welcome patrik";
     return 0;
 }
 
