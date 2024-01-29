@@ -1,0 +1,434 @@
+Q1.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"welcome to the programming world";
+    return 0;
+}
+
+welcome to the programming world
+
+
+
+
+Q2.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"learning programming is fun!";
+    return 0;
+}
+
+learning programming is fun!
+
+
+
+
+
+
+
+Q3.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"hello,universe!";
+    return 0;
+}
+
+hello,universe!
+
+
+
+
+
+Q4.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"programming is amazing and opens up new possibilities!";
+    return 0;
+}
+
+programming is amazing and opens up new possibilities!
+
+
+
+
+Q5.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"coding is today's language of creativity!";
+    return 0;
+}
+
+coding is today's language of creativity!
+
+
+
+
+Q6.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"ujjwal singh!";
+    return 0;
+}
+
+ujjwal singh!
+
+
+
+Q7.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"good bye see you next time!";
+    return 0;
+}
+
+good bye see you next time!
+
+
+
+
+Q8.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"code today for a better tommorow!";
+    return 0;
+}
+
+code today for a better tommorow!
+
+
+
+Q9.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    string language;
+    cout<<"enter the language \n";
+    cin>>language;
+    cout<<"my favourite language is "<<language;
+    return 0;
+}
+
+enter the language 
+pyhton
+my favourite language is pyhton
+
+
+
+
+Q10.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+   
+    cout<<"making great strides in programming today!";
+    return 0;
+}
+making great strides in programming today!
+
+
+
+
+Q11.#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+   string color;
+   cout<<"enter the color\n";
+   cin>>color;
+   cout<<"my favourite color is "<<color;
+    return 0;
+}
+
+enter the color
+yellow
+my favourite color is yellow
+
+
+
+
+Q12.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    string name;
+    cout<<"enter your name\n";
+    cin>>name;
+    cout<<"my name is "<<name;
+    return 0;
+}
+
+
+enter your name
+ujjwal
+my name is ujjwal
+
+
+
+
+
+Q13.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int a,b,c;
+    cout<<"enter two variables\n";
+    cin>>a>>b;
+    c=a+b;
+    cout<<"sum of "<<a<<" and "<<b<<" is "<<c;
+    return 0;
+}
+
+
+34
+56
+sum of 34 and 56 is 90
+
+
+
+
+
+
+Q14.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int l,b,area;
+    cout<<"enter l and b\n";
+    cin>>l>>b;
+    area=l*b;
+    cout<<"area of "<<l<<" and "<<b<<" is "<<area;
+    return 0;
+}
+
+
+enter l and b
+12
+13
+area of 12 and 13 is 156
+
+
+
+
+
+Q15.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int year,age;
+    int presentyear=2024;
+    cout<<"enter your birth year\n";
+    cin>>year;
+    age=presentyear-year;
+    cout<<"your age is "<<age;
+    return 0;
+}
+
+
+enter your birth year
+2002
+your age is 22
+
+
+
+
+
+Q16.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    string name;
+    int age;
+    cout<<"enter your name \n";
+    cout<<"enter your age\n";
+    cin>>name;
+    cin>>age;
+    cout<<"your name is "<<name;
+    cout<<" your age is\n"<<age;
+    return 0;
+}
+
+
+enter your name 
+enter your age
+ujjwal
+22
+your name is ujjwal your age is
+22
+
+
+
+
+
+
+
+
+Q17.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int a,b,sum,subs,multi,divi,mod;
+    cout<<"enter the value of a and b \n";
+    cin>>a>>b;
+    sum=a+b;
+    subs=a-b;
+    multi=a*b;
+    divi=a/b;
+    mod=a%b;
+    cout<<"the value of a and b is\n : " << sum <<" " <<subs <<" " <<multi <<" "<< divi <<" "<< mod;
+    return 0;
+}
+
+enter the value of a and b 
+4
+2
+the value of a and b is
+ : 6 2 8 2 0
+
+
+
+
+
+Q18.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int p,r,t,si,ta;
+    cout<<"enter the value of p,r and t \n";
+    cin>>p>>r>>t;
+    si=(p*r*t/100);
+    cout<<si<<"\n";
+    ta=p+si;
+    cout<<ta;
+    return 0;
+}
+
+enter the value of p,r and t 
+10000
+3
+3
+900
+10900
+
+
+
+
+
+Q19.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    float p,r,t,ci,ta;
+    cout<<"enter the value of p,r and t \n";
+    cin>>p>>r>>t;
+    ci=(p*(pow((1+(r/100.0)),t)))-p;
+    cout<<ci<<"\n";
+    ta=p+ci;
+    cout<<ta;
+    return 0;
+}
+
+
+enter the value of p,r and t 
+10000
+3
+3
+927.27
+10927.3
+
+
+
+
+
+Q20.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    string fruits;
+    cout<<"enter the value of fruits\n";
+    cin>>fruits;
+    cout<<fruits<<"\n"<<fruits;
+    
+    return 0;
+}
+
+
+enter the value of fruits
+apple
+apple
+apple
+
+
+
+
+
+
+Q21.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int favouritenumber;
+    cout<<"enter your favouritenumber\n";
+    cin>>favouritenumber;
+    cout<<"your favouritenumber is;"<<favouritenumber;
+    
+    return 0;
+}
+
+
+enter your favouritenumber
+34
+your favouritenumber is;34
+
+
+
+
+Q22.#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int square,ans;
+    cout<<"enter the value\n";
+    cin>>square;
+    ans=pow(square,2);
+    cout<<ans;
+    return 0;
+}
+
+enter the value
+5
+25
+
+
+
+
+
+
